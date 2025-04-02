@@ -5,7 +5,7 @@ A <a style="text-decoration:underline;">quick and dirty</a> script to minify you
 ## Running The Script
 
 1) In the desired directory run the command<br>
-    ``` git clone <https://github.com/Hibob555556/PyCssMinifier.git> ```
+    ``` git clone https://github.com/Hibob555556/PyCssMinifier.git ```
 
 2) After the cloning process has finished run the command<br>
     ``` cd .\PyCssMinifier ```
